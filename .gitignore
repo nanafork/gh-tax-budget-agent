@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual envs
+.venv/
+venv/
+
+# Playwright/cache
+ms-playwright/
+playwright/.cache/
+
+# Local outputs/logs (remove this if you want PDFs in git)
+outputs/
+debug_*.txt
+
+# OS/editor
+.DS_Store
+*.swp
+.vscode/
